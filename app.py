@@ -20,6 +20,12 @@ JOBS = [
         'title': 'Data Analyst',
         'location': 'Remote',
         'salary': 'Rs.18,00,000'
+    },
+    {
+    'id': 4,
+    'title': 'Backend Engineer',
+    'location': 'San Francisco, USA',
+    'salary': '$150,000'
     }
 ]
 # regestering a route
